@@ -1,3 +1,7 @@
 Test input
 
 More changes
+
+I am making more changes to master
+
+Git file i am making changes is branch
